@@ -35,7 +35,7 @@ body{
 .search-box:hover>.search-btn{
     background: white;
     color: #00d9ff;
-    box-shadow: 0px 0px 60px 2px #00d9ff;
+    box-shadow: 0px 0px 60px 2px #ffffff;
 }
 .search-btn{
     color: #00d9ff;
@@ -83,7 +83,7 @@ body{
     .search-box:hover>.search-btn{
         background: white;
         color: #00d9ff;
-        box-shadow: 0px 0px 60px 2px #00d9ff;    
+        box-shadow: 0px 0px 60px 2px #ffffff;    
     }
     .search-btn{
         color: #00d9ff;
